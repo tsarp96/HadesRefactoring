@@ -1,0 +1,15 @@
+/Users/tsarp/RiderProjects/HadesRefactoring/HadesRefactoring/bin/Debug/net6.0/HadesRefactoring
+/Users/tsarp/RiderProjects/HadesRefactoring/HadesRefactoring/bin/Debug/net6.0/HadesRefactoring.deps.json
+/Users/tsarp/RiderProjects/HadesRefactoring/HadesRefactoring/bin/Debug/net6.0/HadesRefactoring.runtimeconfig.json
+/Users/tsarp/RiderProjects/HadesRefactoring/HadesRefactoring/bin/Debug/net6.0/HadesRefactoring.dll
+/Users/tsarp/RiderProjects/HadesRefactoring/HadesRefactoring/bin/Debug/net6.0/HadesRefactoring.pdb
+/Users/tsarp/RiderProjects/HadesRefactoring/HadesRefactoring/obj/Debug/net6.0/HadesRefactoring.csproj.AssemblyReference.cache
+/Users/tsarp/RiderProjects/HadesRefactoring/HadesRefactoring/obj/Debug/net6.0/HadesRefactoring.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tsarp/RiderProjects/HadesRefactoring/HadesRefactoring/obj/Debug/net6.0/HadesRefactoring.AssemblyInfoInputs.cache
+/Users/tsarp/RiderProjects/HadesRefactoring/HadesRefactoring/obj/Debug/net6.0/HadesRefactoring.AssemblyInfo.cs
+/Users/tsarp/RiderProjects/HadesRefactoring/HadesRefactoring/obj/Debug/net6.0/HadesRefactoring.csproj.CoreCompileInputs.cache
+/Users/tsarp/RiderProjects/HadesRefactoring/HadesRefactoring/obj/Debug/net6.0/HadesRefactoring.dll
+/Users/tsarp/RiderProjects/HadesRefactoring/HadesRefactoring/obj/Debug/net6.0/refint/HadesRefactoring.dll
+/Users/tsarp/RiderProjects/HadesRefactoring/HadesRefactoring/obj/Debug/net6.0/HadesRefactoring.pdb
+/Users/tsarp/RiderProjects/HadesRefactoring/HadesRefactoring/obj/Debug/net6.0/HadesRefactoring.genruntimeconfig.cache
+/Users/tsarp/RiderProjects/HadesRefactoring/HadesRefactoring/obj/Debug/net6.0/ref/HadesRefactoring.dll

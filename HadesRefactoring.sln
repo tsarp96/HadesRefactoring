@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HadesRefactoring", "HadesRefactoring\HadesRefactoring.csproj", "{8B771150-95DE-4EF4-9D8F-F37C5460315F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest.User", "UnitTest.User\UnitTest.User.csproj", "{58ABA8E1-9091-42CE-AAE2-B031546ECFDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B771150-95DE-4EF4-9D8F-F37C5460315F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B771150-95DE-4EF4-9D8F-F37C5460315F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B771150-95DE-4EF4-9D8F-F37C5460315F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B771150-95DE-4EF4-9D8F-F37C5460315F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58ABA8E1-9091-42CE-AAE2-B031546ECFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58ABA8E1-9091-42CE-AAE2-B031546ECFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58ABA8E1-9091-42CE-AAE2-B031546ECFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58ABA8E1-9091-42CE-AAE2-B031546ECFDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
